@@ -1,0 +1,19 @@
+﻿<Window x:Class="wpf_rps.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_rps"
+        mc:Ignorable="d"
+        Title="Rock, Paper, Scissor, Shoot!" Height="450" Width="800"
+        Background="#0f0f0f">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="157" Margin="56,60,0,0" VerticalAlignment="Top" Width="156" Source="https://i.pinimg.com/originals/15/83/4f/15834f6269a3e373493b32c4afc3743b.jpg"/>
+        <Image HorizontalAlignment="Center" Height="157" Margin="0,64,0,0" VerticalAlignment="Top" Width="156" Source="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjgkdAMBOX-urrQD2LRwsijSLc6iJ1I8FbNqtuQfI8TQ&amp;s"/>
+        <Image HorizontalAlignment="Left" Height="156" Margin="601,60,0,0" VerticalAlignment="Top" Width="158" Source="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4JmT_Ml9lnLb4_7REeMIgg0NWrJKa8J3dBalI4w&amp;s"/>
+        <Button x:Name="rbtn" Content="Choose Rock" HorizontalAlignment="Left" Margin="40,256,0,0" VerticalAlignment="Top" Height="72" Width="188" Cursor="Hand" FontFamily="Trebuchet MS" FontSize="20" Click="rbtn_Click"/>
+        <Button x:Name="pbtn" Content="Choose Paper" HorizontalAlignment="Center" Margin="0,256,0,0" VerticalAlignment="Top" Height="72" Width="188" Cursor="Hand" FontFamily="Trebuchet MS" FontSize="20" Click="pbtn_Click"/>
+        <Button x:Name="scbtn" Content="Choose Scissors" HorizontalAlignment="Left" Margin="579,256,0,0" VerticalAlignment="Top" Height="72" Width="188" Cursor="Hand" FontFamily="Trebuchet MS" FontSize="20" Click="scbtn_Click"/>
+        <Label x:Name="optLabel" Content="Welcome! Choose an option and the AI will also choose one!" HorizontalAlignment="Center" Margin="0,12,0,0" VerticalAlignment="Top" Foreground="White" FontSize="20"/>
+    </Grid>
+</Window>

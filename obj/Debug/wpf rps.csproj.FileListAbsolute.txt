@@ -1,0 +1,48 @@
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\wpf rps.csproj.AssemblyReference.cache
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\wpf rps.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\MainWindow.g.cs
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\App.g.cs
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\wpf rps_MarkupCompile.cache
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\wpf rps_MarkupCompile.lref
+C:\Users\sivar\Desktop\Projects\wpf rps\bin\Debug\wpf rps.exe.config
+C:\Users\sivar\Desktop\Projects\wpf rps\bin\Debug\wpf rps.exe
+C:\Users\sivar\Desktop\Projects\wpf rps\bin\Debug\wpf rps.pdb
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\MainWindow.baml
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\wpf rps.g.resources
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\wpf_rps.Properties.Resources.resources
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\wpf rps.csproj.GenerateResource.cache
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\wpf rps.csproj.CoreCompileInputs.cache
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\wpf rps.exe
+C:\Users\sivar\Desktop\Projects\wpf rps\obj\Debug\wpf rps.pdb
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\wpf rps.csproj.AssemblyReference.cache
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\wpf rps.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\MainWindow.g.cs
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\App.g.cs
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\wpf rps_MarkupCompile.cache
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\wpf rps_MarkupCompile.lref
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\wpf rps.exe
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\wpf rps.pdb
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\bin\Debug\wpf rps.exe.config
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\bin\Debug\wpf rps.exe
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\bin\Debug\wpf rps.pdb
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\MainWindow.baml
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\wpf rps.g.resources
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\wpf_rps.Properties.Resources.resources
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\wpf rps.csproj.GenerateResource.cache
+C:\Users\sivar\Desktop\Projects\!didnt finish\wpf rps\obj\Debug\wpf rps.csproj.CoreCompileInputs.cache
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\bin\Debug\wpf rps.exe.config
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\bin\Debug\wpf rps.exe
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\bin\Debug\wpf rps.pdb
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\wpf rps.csproj.AssemblyReference.cache
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\wpf rps.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\MainWindow.g.cs
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\App.g.cs
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\wpf rps_MarkupCompile.cache
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\wpf rps_MarkupCompile.lref
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\MainWindow.baml
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\wpf rps.g.resources
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\wpf_rps.Properties.Resources.resources
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\wpf rps.csproj.GenerateResource.cache
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\wpf rps.csproj.CoreCompileInputs.cache
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\wpf rps.exe
+C:\Users\sivar\Desktop\Projects\C#\GUI\wpf rps\obj\Debug\wpf rps.pdb
